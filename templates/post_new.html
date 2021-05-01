@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if user.is_authenticated %}
+    <h1>New post</h1>
+    <p>Create a new blog post</p>
+    <form action="" method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+    <input type="submit" value="save">
+    </form>
+{% else %}
+    <p>Incorrect user information, Try again</p>
+    <a href="{% url 'login' %}">Log In</a>
+{% endif %}
+{% endblock %}

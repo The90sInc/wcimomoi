@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: niyotokunlola@gmail.com
+Date: Sat, 01 May 2021 15:16:04 -0000
+Message-ID: <161988216448.8420.11773940960938140118@DESKTOP-PT2LQS3>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/alz96s-1adebef6ca0aac6dc4792b622d63ff10/
+
+Your username, in case you’ve forgotten: lenovo
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
