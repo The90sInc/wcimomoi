@@ -25,4 +25,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[ZURI](https://choosealicense.com/licenses/zuri/)
+[ZURI](https://i4g.zuriboard.com/)
